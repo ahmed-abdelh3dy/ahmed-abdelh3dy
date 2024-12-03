@@ -5,7 +5,7 @@
 
 
 - 🏫 Graduate from Mansoura University **Faculty of Computer Science and Information**
-- 💻 I’m currently learning **Backend Development & Software Development**
+- 💻 I’m currently trainig @ ITI as **Full Stack Using php**
 
 - 💬 Ask me about **Laravel & PHP**
 
